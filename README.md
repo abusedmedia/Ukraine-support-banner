@@ -2,7 +2,7 @@
 # Ukraine support banner
 ## The days since the beginning
 
-The purpose of this banner is to publicy support Ukrainian people by showing it on any public website.
+The purpose of this banner is to publicy support Ukrainian people by showing a tiny signal on public website.
 
 During the early days of the invasion we were all concerned on daily basis on the situation and possible development.
 As the days pass, that feeling
