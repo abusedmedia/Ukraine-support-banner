@@ -1,5 +1,5 @@
 
-# Invasion of Ukraine
+# Ukraine support banner
 ## How many days since the beginning of this tragedy?
 
 The purpose of this banner is to publicy support Ukrainian people. Place it on any public website.
