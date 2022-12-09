@@ -1,6 +1,6 @@
 
 # Ukraine support banner
-## How many days since the beginning of this tragedy?
+## The days since the beginning
 
 The purpose of this banner is to publicy support Ukrainian people by showing it on any public website.
 
