@@ -2,7 +2,11 @@
 # Ukraine support banner
 ## How many days since the beginning of this tragedy?
 
-The purpose of this banner is to publicy support Ukrainian people. Place it on any public website.
+The purpose of this banner is to publicy support Ukrainian people by showing it on any public website.
+
+During the early days of the invasion we were all concerned on daily basis on the situation and possible development.
+As the days pass, that feeling
+
 Unlike other banners out there, this one shows the updated number of days since the beginning of the war.
 The image updates itself automatically every day.
 
