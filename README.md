@@ -7,7 +7,7 @@ The purpose of this banner is to publicly support Ukrainian people by showing a 
 During the early days of the invasion, we were all concerned on a daily basis about the situation and its evolution. As the days go by, that interest, naturally, has cooled down, to say the least. The hope is to keep in view how long this tragedy has been in action, considering that it was initially thought to be a blitzkrieg.
 
 Unlike other similar image banners, this one shows the updated number of days since the beginning of the war.
-The image updates itself automatically every day.
+**The image updates itself automatically every day.**
 
 There are 3 pre-defined snippet to choose from:
 
