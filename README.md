@@ -25,6 +25,8 @@ Just copy the snippet you prefer and paste it into your webpages.
 
 <img width="250" alt="ribbon" src="https://user-images.githubusercontent.com/870788/206793217-0196f8f7-0fda-4079-b4f3-46a8f1738d50.png">
 
+[Codepen example](https://codepen.io/abusedmedia/pen/BaVEmEa?editors=1010)
+
 
 ### Top strip
 
@@ -34,6 +36,8 @@ Just copy the snippet you prefer and paste it into your webpages.
 
 <img width="250" alt="top-strip" src="https://user-images.githubusercontent.com/870788/206793435-bb646e4d-d61e-4c5d-80bf-940f8f42c254.png">
 
+[Codepen example](https://codepen.io/abusedmedia/pen/vYrMWPb?editors=1010)
+
 
 ### Bottom strip
 
@@ -41,5 +45,7 @@ Just copy the snippet you prefer and paste it into your webpages.
 <div style="bottom:0;position:fixed;z-index:999;left:0;width:100%;height:30px;display:flex;justify-content:center;background: url(https://cache.presenta.workers.dev/GhZD3MDlBN:yvLHzHJhJ?w=20&h=30&gravity=west);"><img src="https://daily.presenta.workers.dev/GhZD3MDlBN:yvLHzHJhJ"></div>
 ```
 <img width="250" alt="bot-strip" src="https://user-images.githubusercontent.com/870788/206793490-a0b74fc4-c140-4f3c-b879-29308cd3a47d.png">
+
+[Codepen example](https://codepen.io/abusedmedia/pen/ExRJYMg?editors=1010)
 
 You can see live on my [website](https://www.fabiofranchino.com/).
