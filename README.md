@@ -43,3 +43,4 @@ Just copy the snippet you prefer and paste it into your webpages.
 ```
 <img width="250" alt="bot-strip" src="https://user-images.githubusercontent.com/870788/206793490-a0b74fc4-c140-4f3c-b879-29308cd3a47d.png">
 
+You can see live on my [blog](https://www.fabiofranchino.com/blog/)
