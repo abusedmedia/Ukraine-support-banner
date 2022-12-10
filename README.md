@@ -2,7 +2,7 @@
 # Ukraine support banner
 ## The days since the beginning
 
-The purpose of this banner is to publicy support Ukrainian people by showing a tiny signal on public websites.
+The purpose of this banner is to publicly support Ukrainian people by showing a tiny signal of closeness on public websites.
 
 During the early days of the invasion, we were all concerned on a daily basis about the situation and its evolution. As the days go by, that interest, naturally, has cooled down, to say the least. The hope is to keep in view how long this tragedy has been in action, considering that it was initially thought to be a blitzkrieg.
 
